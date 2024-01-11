@@ -2,19 +2,6 @@
 
 Welcome to the ultimate cheatsheet repository for developers! From beginners to advanced practitioners, this cheatsheet covers a wide array of topics, providing quick references and examples for various technologies and programming languages.
 
-## 📖 Topics Covered
-
-- [React](#react)
-- [SQL](#sql)
-- [Python](#python)
-- [CSS](#css)
-- [HTML](#html)
-- [Java](#java)
-- [Vue.js 3](#vuejs-3)
-- [SwiftUI](#swift-ui)
-- [TypeScript](#typescript)
-- ...and more!
-
 ## 💻 Table of Contents
 
 1. [React](#react)
