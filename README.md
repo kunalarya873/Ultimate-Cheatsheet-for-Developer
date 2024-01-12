@@ -98,6 +98,15 @@ Contributions are welcome! If you have additional cheatsheets, improvements, or 
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Open a pull request.
 
+<!-- Getting Started Section -->
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/kunalarya873/smallFlask
+
 ## 💡 Contribute and Collaborate
 
 We believe in the power of community-driven learning. Contribute your knowledge, insights, or code implementations to help others learn and grow.
