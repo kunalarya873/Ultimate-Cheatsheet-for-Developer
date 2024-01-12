@@ -105,7 +105,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kunalarya873/smallFlask
+   git clone https://github.com/kunalarya873/Ultimate-Cheatsheet-for-Developer
 
 ## 💡 Contribute and Collaborate
 
